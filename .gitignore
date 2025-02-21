@@ -1,0 +1,15 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Configuración de entornos virtuales
+venv/
+env/
+
+# Configuración de Django
+db.sqlite3
+/media/
+staticfiles/
+
+# Configuración de entornos (variables de entorno)
+.env
